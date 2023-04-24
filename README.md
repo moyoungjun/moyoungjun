@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<h3 align="center"> My GitHub Stats </h3>
+<h3 align="left"> My GitHub Stats </h3>
